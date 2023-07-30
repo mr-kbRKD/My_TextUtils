@@ -68,7 +68,7 @@ function App() {
       <Alert alert={alert} />
       <div className="container my-3" >
 
-        <TextForm showAlert={showAlert} heading="Gaur Hari" mode={mode} />
+        <TextForm showAlert={showAlert} heading="Enter Your Text Here" mode={mode} />
         {/* <Switch>
           <Route path="/about">
             <About />
